@@ -1,4 +1,4 @@
-# PI_Inteligencia_Artificial_ADTEC
+#PI_Inteligencia_Artificial_ADTEC
 Projeto Integrado UNIFEOB - Solução de Anonimização de Dados (LGPD) com IA.
 
 Ana Jaqueline da Costa França, R.A. 24000520  
